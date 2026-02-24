@@ -1,0 +1,4 @@
+tolong buatkan kode program java yang dapat menenerima inputan terhadap sistem untuk memesan beberapa menu yang tersedia, yang dimana setiap minimum belanja mendapatkan diskon sesuai kataegori minimum belanja nya
+buatkan pake bahasa java
+tambahkan kode inisial pemesanannya
+bagaimana cara compile 

@@ -1,0 +1,5 @@
+buatlah kode program bahasa java yang mampu menentukan total niali hanya untuk kelompok yang diminta, yang memiliki pola penyimpanan untuk memahami bagimana kelompok siswa dipisiahkan yang dimana di bagi menjadi 3 input 1. jumlah total data nya 2. deret niali 3.kode kelompok siswa
+cara compile nya gmna
+engga ini namanya driver 2 kasih cara compile nya di command prompt langsung
+compile nya error
+coba kasih contoh inputan

@@ -1,0 +1,4 @@
+tolong buatkan program java yang dapat mendukung oeprasional laundry asrama kampus it del yang dapat menerima inputan nama nim asrama jenis pakaian jumlah pakaian seperti list beberapa jenisnya celana kemeja kaos jaket sarung kaos kaki dress batik sprei sarung dan lain sebgaainya, luntur atau tidak berikan juga bisa menerima notes khusus untuk pakaiannya
+kasih outpunya yang nanti bisa nampilin detail laundry nya semuanya
+tambahkan detail tanggalnya
+untuk waktu pengembalian nati dianter biasanya jadi hanya satu hari kerja biasanya 
